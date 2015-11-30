@@ -1,6 +1,6 @@
 {
   "name": "pipelog",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "beautylog wrapper for easy in pipe logging",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,9 @@
     "url": "https://github.com/pushrocks/pipelog/issues"
   },
   "homepage": "https://github.com/pushrocks/pipelog",
-  "dependencies": {},
+  "dependencies": {
+    "beautylog": "^1.0.4"
+  },
   "devDependencies": {
     "gulp": "3.9.0",
     "gulp-typescript": "2.9.2"
