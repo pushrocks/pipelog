@@ -1,6 +1,6 @@
 {
   "name": "pipelog",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "beautylog wrapper for easy in pipe logging",
   "main": "index.js",
   "scripts": {
